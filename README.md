@@ -48,7 +48,5 @@ Interested in my work? Explore my projects right here on GitHub.
 
 ## 🌐 Social & Network
 
-📧 **Email:** your@email.com
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Icharu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/icarodejesus/)
