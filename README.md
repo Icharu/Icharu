@@ -40,13 +40,24 @@ Interested in my work? Explore my projects right here on GitHub.
 
 ## 📊 Status
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&background=0d1117&border=30363d&ring=22c55e&fire=22c55e&currStreakLabel=22c55e)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Icharu&theme=dark&background=0d1117&border=30363d&ring=22c55e&fire=22c55e&currStreakLabel=22c55e)](https://git.io/streak-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&icon_color=22c55e&title_color=22c55e)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Icharu&show_icons=true&theme=github_dark&hide_border=true&icon_color=22c55e&title_color=22c55e)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## 🌐 Social & Network
+## 🛠️ Workflow
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🌐 Social - Network
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Icharu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/icarodejesus/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/icarodejesus/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aliveicarus/)
