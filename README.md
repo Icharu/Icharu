@@ -46,6 +46,13 @@ Interested in my work? Explore my projects right here on GitHub.
 
 ---
 
+## 🗣️ Languages
+
+![Portuguese](https://img.shields.io/badge/Portuguese-Native-009C3B?style=for-the-badge&logo=googletranslate&logoColor=white)
+![English](https://img.shields.io/badge/English-Fluent-012169?style=for-the-badge&logo=googletranslate&logoColor=white)
+![French](https://img.shields.io/badge/French-Fluent-002395?style=for-the-badge&logo=googletranslate&logoColor=white)
+
+---
 ## 🛠️ Workflow
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
