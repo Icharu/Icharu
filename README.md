@@ -1,12 +1,12 @@
 # Introduction
 
-Hello! I am a **Computer Engineering student** from **São José de Ribamar, Maranhão, Brazil**, fluent in **Portuguese**, **English**, and **French** — always eager to find new strategic points to build scalable, consistent, and reliable applications.
+Howdy! I am a **Computer Engineering student** from **São José de Ribamar, Maranhão, Brazil**, fluent in **Portuguese**, **English**, and **French** — always eager to find new strategic points to build scalable, consistent, and reliable applications.
 
 My passion for web development and systems became clear after joining college, where I also took on a role as a **scientific researcher at UEMA** (Universidade Estadual do Maranhão).
 
 Today, I am actively developing systems for **ecological research** at the **Reserva Biológica do Gurupi** — the only biological reserve in northeastern Brazil — applying software engineering to support the integrity and consistency of environmental data.
 
-Interested in my work? Explore my projects right here on GitHub.
+Interested with any of my projects? Check below for more info!
 
 ---
 
