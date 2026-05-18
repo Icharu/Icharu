@@ -59,9 +59,6 @@ Interested in any of my projects? Check below for more info!
 </td>
   </tr>
 </table>
-
-<sub>📂 Code & write-up: [Frontend](https://github.com/Icharu/<your-laps-repo>) · [Backend](https://github.com/Icharu/<your-laps-repo>) — for the deep dive (Langevin physics for the hero mesh, seeded-random layout for the constellation, framer-motion spring-back math), see the in-repo `laps-graph-explainer.md`.</sub>
-
 ---
 
 ## 🧠 Knowledge
@@ -149,18 +146,6 @@ Interested in any of my projects? Check below for more info!
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-
----
-
-## 🐍 Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Icharu/Icharu/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Icharu/Icharu/output/github-contribution-grid-snake.svg" />
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Icharu/Icharu/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
 
 ---
 
