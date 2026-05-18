@@ -2,11 +2,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=200&section=header&text=Ícaro%20de%20Jesus&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20·%20UEMA%20Researcher%20·%20PT%20·%20EN%20·%20FR&descAlignY=60&descSize=14" alt="header" />
 </p>
-
-<!-- ANIMATED TYPING SUBTITLE -->
 <p align="center">
   <a href="https://github.com/Icharu">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=720&lines=Building+reliable+systems+for+ecological+research;Spring+Boot+%2B+TanStack+%2B+TypeScript+full-stack;Trilingual+%F0%9F%87%A7%F0%9F%87%B7+%F0%9F%87%AC%F0%9F%87%A7+%F0%9F%87%AB%F0%9F%87%B7;Currently+working+at+Reserva+Biológica+do+Gurupi" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=720&lines=Building+reliable+systems+for+ecological+research;Spring+Boot+%2B+TanStack+%2B+TypeScript+full-stack;Trilingual+%E2%80%94+PT+%C2%B7+EN+%C2%B7+FR;Working+at+Reserva+Biol%C3%B3gica+do+Gurupi" alt="typing" />
   </a>
 </p>
 
@@ -157,10 +155,12 @@ Interested in any of my projects? Check below for more info!
 ## 🐍 Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Icharu/Icharu/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Icharu/Icharu/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Icharu/Icharu/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Icharu/Icharu/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
-
-> The snake graphic above is generated daily by the workflow at the bottom of this file. The first run pushes the SVG to an `output` branch, which the `<img>` tag above reads from.
 
 ---
 
@@ -176,5 +176,6 @@ Interested in any of my projects? Check below for more info!
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=110&section=footer" alt="footer" />
 </p>
+
 
 ---
