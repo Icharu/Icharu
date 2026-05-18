@@ -1,17 +1,56 @@
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=200&section=header&text=Ícaro%20de%20Jesus&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20·%20UEMA%20Researcher%20·%20PT%20·%20EN%20·%20FR&descAlignY=60&descSize=14" alt="header" />
-</p>
-<p align="center">
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=22c55e&height=4&section=header" width="100%" alt="" />
+
+  <br/>
+
+  <a href="https://github.com/Icharu" title="Ícaro on GitHub">
+    <img src="https://github.com/Icharu.png?size=140" width="128" height="128" alt="Ícaro de Jesus" />
+  </a>
+
+  <h1>Ícaro de Jesus</h1>
+
+  <p>
+    <strong>Computer Engineering</strong>
+    &nbsp;•&nbsp;
+    <strong>Scientific Researcher @ UEMA</strong>
+  </p>
+
+  <p>
+    <sub>📍 São José de Ribamar — Maranhão, Brasil</sub>
+  </p>
+
   <a href="https://github.com/Icharu">
+      <a href="https://github.com/Icharu">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=720&lines=Building+reliable+systems+for+ecological+research;Spring+Boot+%2B+TanStack+%2B+TypeScript+full-stack;Trilingual+%E2%80%94+PT+%C2%B7+EN+%C2%B7+FR;Working+at+Reserva+Biol%C3%B3gica+do+Gurupi" alt="typing" />
   </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/Icharu"><img src="https://komarev.com/ghpvc/?username=Icharu&label=Profile%20views&color=22c55e&style=flat-square" alt="views" /></a>
-  <a href="https://github.com/Icharu?tab=followers"><img src="https://img.shields.io/github/followers/Icharu?label=Followers&style=flat-square&color=22c55e" alt="followers" /></a>
-</p>
+  <br/><br/>
+
+  <p>
+    <a href="https://github.com/Icharu"><img 
+  src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=22c55e" alt="GitHub" /></a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/icarodejesus/"><img 
+  src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=22c55e" alt="LinkedIn" /></a>
+    &nbsp;
+    <a href="https://www.instagram.com/aliveicarus/"><img 
+  src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=22c55e" alt="Instagram" /></a>
+  </p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Icharu&label=Profile+views&color=22c55e&style=flat-square&labelColor=0d1117" alt="views" 
+  />
+    &nbsp;
+    <img src="https://img.shields.io/github/followers/Icharu?label=Followers&style=flat-square&color=22c55e&labelColor=0d1117" 
+  alt="followers" />
+  </p>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=22c55e&height=2&section=footer" width="100%" alt="" />
+
+  </div>
+
 
 ---
 
