@@ -1,33 +1,4 @@
----
-date: 2026-05-17
-type: profile
-tags: [github, profile, readme, personal-brand]
-aliases: [GitHub README, profile README, Icharu profile]
----
 
-# GitHub profile README — `Icharu/Icharu`
-
-> Source of truth for the README on my GitHub profile (`github.com/Icharu`). The vault stores it so I can keep iterating without losing history.
->
-> ⚠️ **Before pushing to GitHub**, strip the YAML frontmatter block at the very top of this file (everything between the `---` lines). GitHub renders frontmatter as a small literal code block, which looks broken.
->
-> **Placeholders to swap in before pushing:**
-> - `<your-laps-repo>` (×2) — the actual repo URL for the LAPS frontend / backend.
-> - Snake animation workflow — copy the YAML block at the bottom into `.github/workflows/snake.yml` of the `Icharu/Icharu` repo.
-
-Related:
-- [[00-PROJECTS]] — full project list this README distills from
-- [[01-projects/laps/laps]] — LAPS project hub (the featured project)
-- [[01-projects/laps/laps-graph-explainer]] — referenced from the LAPS card
-- [[icaro_second_brain]] — personal-brand context
-
----
-
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- EVERYTHING BELOW THIS LINE GETS COPIED INTO Icharu/Icharu/README.md      -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-
-<!-- HEADER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=200&section=header&text=Ícaro%20de%20Jesus&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20·%20UEMA%20Researcher%20·%20PT%20·%20EN%20·%20FR&descAlignY=60&descSize=14" alt="header" />
 </p>
@@ -206,16 +177,9 @@ Interested in any of my projects? Check below for more info!
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=110&section=footer" alt="footer" />
 </p>
 
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- END OF GITHUB README CONTENT                                             -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-
 ---
 
 ## Snake animation workflow
-
-Drop this YAML at `.github/workflows/snake.yml` in the `Icharu/Icharu` profile repo. After the first run the SVG lands on an `output` branch and the README's `<img>` tag picks it up automatically.
-
 ```yaml
 name: generate snake
 on:
@@ -243,11 +207,3 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
-
----
-
-## Changelog
-
-| Date | Change |
-|---|---|
-| 2026-05-17 | Initial enhanced version. Added animated capsule-render banner + typing SVG, profile-view counter, Featured Project (LAPS) card with stack table, expanded Knowledge section (Spring Security, JPA, Flyway, React, TanStack, Vite, Tailwind), activity graph + trophy display, snake animation, email badge, footer wave. Saved to vault for iteration. |
