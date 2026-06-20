@@ -5,10 +5,6 @@
 
   <br/>
 
-  <a href="https://github.com/Icharu" title="Ícaro on GitHub">
-    <img src="https://github.com/Icharu.png?size=140" width="128" height="128" alt="Ícaro de Jesus" />
-  </a>
-
   <h1>Ícaro de Jesus</h1>
 
   <p>
